@@ -22,4 +22,4 @@ function nomeDoMes(numeroDoMes){
     }
 }
 
-console.log(`O mês é ${nomeDoMes(1)}`)
+console.log(`O mês é ${nomeDoMes(1)}`);
